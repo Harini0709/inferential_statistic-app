@@ -1,6 +1,5 @@
 import math
 import os
-from dotenv import load_dotenv
 import re
 import base64
 import io
@@ -17,7 +16,6 @@ import requests
 import json
 from datetime import date, datetime
 
-load_dotenv()
 # ─────────────────────────────────────────────
 # Page Config
 # ─────────────────────────────────────────────
